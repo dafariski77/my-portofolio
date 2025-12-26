@@ -20,7 +20,8 @@ export function HeroSection() {
         <div className="relative w-7/12 px-2 pt-40">
           <div className="flex flex-col gap-y-8">
             <p className="text-5xl font-normal">
-              Hello I'am <span className="font-bold">Riski Dafa Setyawan.</span>
+              Hello I&apos;am{" "}
+              <span className="font-bold">Riski Dafa Setyawan.</span>
             </p>
             <p className="text-5xl font-bold">
               Fullstack{" "}
@@ -34,10 +35,11 @@ export function HeroSection() {
           </div>
           <div className="mt-16 w-10/12">
             <p className="text-base leading-relaxed font-normal text-zinc-500">
-              I'm Evren Shah Lorem Ipsum is simply dummy text of the printing
-              and typesetting industry. Lorem Ipsum has been the industry's
-              standard dummy text ever since the 1500s, when an unknown printer
-              took a galley of type and scrambled it to specimen book.
+              I&apos;m Dafa Riski Lorem Ipsum is simply dummy text of the
+              printing and typesetting industry. Lorem Ipsum has been the
+              industry&apos;s standard dummy text ever since the 1500s, when an
+              unknown printer took a galley of type and scrambled it to specimen
+              book.
             </p>
           </div>
           <div className="mt-36 flex flex-row items-center gap-x-8">

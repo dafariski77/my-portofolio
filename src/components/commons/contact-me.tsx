@@ -17,7 +17,7 @@ export function ContactMeSection() {
           </div>
           <div className="flex flex-col justify-center gap-y-6">
             <p className="text-5xl leading-snug font-bold">
-              Let's{" "}
+              Let&apos;s{" "}
               <span className="text-white [text-shadow:-2px_-2px_0_#000,2px_-2px_0_#000,-2px_2px_0_#000,2px_2px_0_#000]">
                 talk
               </span>{" "}
